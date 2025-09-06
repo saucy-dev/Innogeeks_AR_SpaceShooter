@@ -1095,7 +1095,7 @@ GameObject:
   - component: {fileID: 692964615}
   - component: {fileID: 692964614}
   m_Layer: 5
-  m_Name: Inno Mail
+  m_Name: Inno website
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1118,7 +1118,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.6611112, y: 0.26441666}
   m_AnchorMax: {x: 0.6611112, y: 0.26441666}
-  m_AnchoredPosition: {x: 233.51, y: -479.68}
+  m_AnchoredPosition: {x: 233.5, y: -479.68}
   m_SizeDelta: {x: 264.99, y: 56}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &692964614
@@ -2378,7 +2378,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 14d43d01c93b43c40a0214b8705342f3, type: 3}
+  m_Sprite: {fileID: 21300000, guid: e5b7a6930799e304d8d6065c0b11b4e6, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
